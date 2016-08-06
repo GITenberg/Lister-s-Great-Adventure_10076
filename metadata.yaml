@@ -1,0 +1,28 @@
+_repo: Lister-s-Great-Adventure_10076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Salvage -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- GITenberg
+title: Lister's Great Adventure
+url: http://www.gutenberg.org/ebooks/10076
